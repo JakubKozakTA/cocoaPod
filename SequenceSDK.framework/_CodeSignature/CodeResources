@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		v4dByqnZO3TxBDYQYkck1fVh9p4=
+		LGKpQM2rR5UAwXSJDxBsQawCQT0=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SequenceSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QGbLG/4Y46AfW4eM8gb+bhYL+BI=
+		QBa1mudzzCsR3YEkTtIyj/adiaE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -38,47 +38,47 @@
 		</data>
 		<key>SequenceSB.storyboardc/Info.plist</key>
 		<data>
-		bh3Iowf3QzfqMXq/y4iEg11o44k=
+		IbOKTQpSRJYgtsjmI1hitxiQGNU=
 		</data>
 		<key>SequenceSB.storyboardc/Knh-yh-xOa-view-xf3-wO-oX6.nib</key>
 		<data>
-		HUPUOzjuwcVzpicdv3Poso6TspA=
+		nG8Kn/iS0RbdMeD9u+8TdTtIycw=
 		</data>
 		<key>SequenceSB.storyboardc/M3S-kn-xMN-view-KPj-2q-Obb.nib</key>
 		<data>
-		3yJekhkBs8DwL+808IMuPR7gJ0c=
+		2p1G2MX29FXlZxqfFvcaTfKnDSM=
 		</data>
 		<key>SequenceSB.storyboardc/QUr-SF-oPz-view-zdy-I1-6Y2.nib</key>
 		<data>
-		d4HxTCjciYwwnFNKEHfjTDquf6w=
+		4zrZXH9qE3TBvOLsK7il8PkPo5A=
 		</data>
 		<key>SequenceSB.storyboardc/SequenceFinishedVideosVC.nib</key>
 		<data>
-		TGSKj7GVoSZqdVAAne8SDNYPj3w=
+		wdqwHBx5WJ+WJWH2/da2v/uat/g=
 		</data>
 		<key>SequenceSB.storyboardc/SequenceListOfTemplatesVC.nib</key>
 		<data>
-		JTpS9DDnsQxDHzE6LtD0dLbcKJ4=
+		pJ7BMzLOUbwtSD8dCgTdLICEGUA=
 		</data>
 		<key>SequenceSB.storyboardc/SequenceProcessVC.nib</key>
 		<data>
-		IwvC4CgRFDUb31qVLGMaqrnHIbI=
+		CkXM72fXs0d9g4d0MtYoVbWk5PQ=
 		</data>
 		<key>SequenceSB.storyboardc/SequenceTemplateDetailVC.nib</key>
 		<data>
-		i2JPtuVWB/1epebNh7rlOk956Uw=
+		K+MgCuUFZLSHOzk0dYxd4kqGqdI=
 		</data>
 		<key>SequenceSB.storyboardc/SequenceUploadVC.nib</key>
 		<data>
-		Sx7atIdma4SdQz00FPg+WUqU+og=
+		bUXVcqKFRBlVU3grhQepWDN1TNY=
 		</data>
 		<key>SequenceSB.storyboardc/deN-bj-plB-view-F0Z-s5-VB7.nib</key>
 		<data>
-		HhNSpUzpxVycEpBQswBmLcZGipw=
+		symRbO2SUSCz8wVp41gytQ0OS24=
 		</data>
 		<key>SequenceSB.storyboardc/feL-eX-LOb-view-zPj-yH-S6z.nib</key>
 		<data>
-		CIHpF31FW4LZ2ASRdMHcPI0SStM=
+		Cwy/wS6JRBblpML72/oFSvyIUR8=
 		</data>
 		<key>schema.json</key>
 		<data>
@@ -91,11 +91,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v4dByqnZO3TxBDYQYkck1fVh9p4=
+			LGKpQM2rR5UAwXSJDxBsQawCQT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hn8tWPIDZsoFPt6JqW/6fAMgMNbscNONU+toC3s7v6Q=
+			YLTfgY4WPP9xRdBl67qlbVLZUan4lfdTWsZVNdTecWI=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -146,11 +146,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QGbLG/4Y46AfW4eM8gb+bhYL+BI=
+			QBa1mudzzCsR3YEkTtIyj/adiaE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eeo+7u5uZzogFKlmJIqML7iO9dcjH1y+jfPIgedIpq0=
+			6reHBA9Zl+i1F9HjhRqDxY9Abd0650GFIJbimUdsxfc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -168,121 +168,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bh3Iowf3QzfqMXq/y4iEg11o44k=
+			IbOKTQpSRJYgtsjmI1hitxiQGNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8cdnYh+1q+09xKkb12pQJn8x/cyzlRhLUSvpKZeJuYc=
+			C5pEgg+T9MzFZGZ2kuRfR1iOTJzt4DgxqK9YvHn4KKU=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/Knh-yh-xOa-view-xf3-wO-oX6.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HUPUOzjuwcVzpicdv3Poso6TspA=
+			nG8Kn/iS0RbdMeD9u+8TdTtIycw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtMQcVWCi2RIbjZvuwVogftk5NYCm/7HL6WoebMEuc0=
+			RKTBpxoIu4UHsrte8Aj5gby1JMgK4vyUcH0EbMlj2Mw=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/M3S-kn-xMN-view-KPj-2q-Obb.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3yJekhkBs8DwL+808IMuPR7gJ0c=
+			2p1G2MX29FXlZxqfFvcaTfKnDSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			1A5dSNEWARYDZmKnhNyxljDS+YGxamjx86MJ6Xdgff4=
+			/pjmAF8JuvNmwnqrDwIzjNMptPphWIKwAiaZcyJifXE=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/QUr-SF-oPz-view-zdy-I1-6Y2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d4HxTCjciYwwnFNKEHfjTDquf6w=
+			4zrZXH9qE3TBvOLsK7il8PkPo5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			75X4Agi2vAF+d3umpixWIocW50CVlo5E0zsqIGbzIeI=
+			3Qo3Fy7HD7Ee6JaM9nxt9saeE8lr3q6A0VWISYdUAUA=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/SequenceFinishedVideosVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TGSKj7GVoSZqdVAAne8SDNYPj3w=
+			wdqwHBx5WJ+WJWH2/da2v/uat/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			cMW7HZqsSP9ELQOjBG0u16Qjb/36ujbmu3hw+qmHqVU=
+			K0GylNxdT49r7+15cVSKh2Fg7n5To/VUPzgv45LKghM=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/SequenceListOfTemplatesVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JTpS9DDnsQxDHzE6LtD0dLbcKJ4=
+			pJ7BMzLOUbwtSD8dCgTdLICEGUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			7insSSiSMHtSUnAVK2+UXXFlFYX6By1BmeBxFIB+qzY=
+			c7Tgjw78LxlggpOH8jx1cHmO9gvqsmfzmVMyKoLAb3U=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/SequenceProcessVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IwvC4CgRFDUb31qVLGMaqrnHIbI=
+			CkXM72fXs0d9g4d0MtYoVbWk5PQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uXT+hFBzarRowAOYas6IP/GOgjM65GDfQlVX3RH0WOc=
+			BrYe79cV598yHzfndKtObReuDidLYwPnwEWjl57bwws=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/SequenceTemplateDetailVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i2JPtuVWB/1epebNh7rlOk956Uw=
+			K+MgCuUFZLSHOzk0dYxd4kqGqdI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PXzxBUqrXMWqTc5XSpfhMnTb98cYsyFvfvkcZitUKOo=
+			TcI5BScV5LpaM+rVzgTwHqMLBLYVUsO0rxrKM+vwpd4=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/SequenceUploadVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sx7atIdma4SdQz00FPg+WUqU+og=
+			bUXVcqKFRBlVU3grhQepWDN1TNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vt/chsVR1iOmwhI5lg7v7DDwWml6hQ5SrqQjdVPclUE=
+			1RUpluEKDgmsM/+j4/pX0FqzVQFitNGev+5VdtXmkd8=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/deN-bj-plB-view-F0Z-s5-VB7.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HhNSpUzpxVycEpBQswBmLcZGipw=
+			symRbO2SUSCz8wVp41gytQ0OS24=
 			</data>
 			<key>hash2</key>
 			<data>
-			jbNLSDY+rO8D4yznoJ/feTAPQUHZ+TnEoL6+Rdz79JA=
+			ReToQvPPGZBNKe7qKJ/jly0zvRLxqnzVmXJkImcA+w0=
 			</data>
 		</dict>
 		<key>SequenceSB.storyboardc/feL-eX-LOb-view-zPj-yH-S6z.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CIHpF31FW4LZ2ASRdMHcPI0SStM=
+			Cwy/wS6JRBblpML72/oFSvyIUR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwxMRsXsH900eJLWLEQA3iDpWPwTbv54kEKyBhZ7veU=
+			JGj49UwFeHOpfIT2V+brDV4UiQ/wZS9IlU/O1jasEFY=
 			</data>
 		</dict>
 		<key>schema.json</key>
