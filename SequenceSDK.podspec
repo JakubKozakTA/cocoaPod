@@ -84,7 +84,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :http => "https://test.eventee.co/build/css/SequenceSDK.zip" }
+  s.source       = { :git => "https://github.com/JakubKozakTA/cocoaPod.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
