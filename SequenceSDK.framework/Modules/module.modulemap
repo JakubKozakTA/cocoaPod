@@ -1,0 +1,11 @@
+framework module SequenceSDK {
+  umbrella header "SequenceSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SequenceSDK.Swift {
+    header "SequenceSDK-Swift.h"
+    requires objc
+}
